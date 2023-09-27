@@ -1,5 +1,3 @@
-# Resposta
-
 def calcula_temp_farenheit (temp_celsius):
   temp_farenheit = (9*temp_celsius + 160)/5
   return temp_farenheit
